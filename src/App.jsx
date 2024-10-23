@@ -1,9 +1,12 @@
-import Intro from "./components/Intro";
+import BalancePage from "./pages/BalancePage";
+import Intro from "./pages/Intro";
+import Navbar from "./components/Navbar";
 
 function App() {
   return (
     <>
-      <Intro />
+      {/* <Intro /> */}
+      <BalancePage />
     </>
   );
 }

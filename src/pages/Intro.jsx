@@ -1,5 +1,5 @@
 import React from "react";
-import BigYellowButton from "./BigYellowButton";
+import BigYellowButton from "../components/BigYellowButton";
 
 const Intro = () => {
   return (
