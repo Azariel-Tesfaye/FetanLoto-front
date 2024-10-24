@@ -15,7 +15,7 @@ const Home = () => {
         <Refferal />
         <Categories />
         <TicketHome />
-        <div className='text-5xl'>
+        <div className='text-5xl flex font-bold justify-center flex-col items-center'>
             <h1>FAST</h1>
             <h1>CASH OUT</h1>
         </div>
